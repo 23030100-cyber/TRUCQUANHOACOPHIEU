@@ -24,7 +24,7 @@ st.image("logo.jpg")
 # TIÊU ĐỀ
 # =============================
 st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
-st.subheader("Lê Thị Hảo")
+st.subheader("Lê Thị Hảo - đề tài 8")
 
 st.markdown("---")
 
